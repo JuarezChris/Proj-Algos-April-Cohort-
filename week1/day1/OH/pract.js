@@ -1,3 +1,5 @@
+console.log(Hello)
+
 // var person = "Dude"
 // let food = "Donut"
 // const fred = "Fred"
